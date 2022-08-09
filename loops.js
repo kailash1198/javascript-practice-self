@@ -108,3 +108,40 @@
 // for (const value of stringArray) {
 //     console.log(value);
 // }
+
+
+// ========== ADVANCE LOOPS PRACTICE ===============
+
+
+
+// for (let i = 0; i <= 5; i++) {
+//     console.log("hello");
+// }
+
+// for (let i = 1; i <= 5; i++) {
+//     console.log(i)
+// }
+
+// let sum = 0;
+// let n = 200;
+
+// for (let i = 1; i <= n; i++) {
+//     sum += i;
+// }
+// console.log(`sum:`, sum);
+
+// let arrayOne = [2, 4];
+// let arrayTwo = [1, 3];
+
+// let sumArrayOne = 0;
+// let sumArrayTwo = 0;
+
+// for (let i = 0; i < arrayOne.length; i++) {
+//     sumArrayOne += arrayOne[i];
+// }
+
+// for (let i = 0; i < arrayTwo.length; i++) {
+//     sumArrayTwo += arrayTwo[i];
+// }
+
+// console.log(sumArrayOne + sumArrayTwo);

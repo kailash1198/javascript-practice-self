@@ -48,3 +48,32 @@
 /* =================================================================
             ADVANCE PRACTICE FOR IF ELSE STATEMENT EXPERT
    =================================================================*/
+
+// let optionOne = 2;
+
+// if (optionOne == 1) {
+//     let firstName = "Kailash";
+//     let lastName = "kumar";
+//     console.log(firstName + " " + lastName);
+// } else if (optionOne == 2) {
+//     let numOne = 10;
+//     let numTwo = 20;
+//     console.log("numone+ numtwo: ", numOne + numTwo)
+// }
+
+
+
+
+
+
+
+
+
+// ============  check number even or odd ============ 
+// let Number = 100;
+
+// if (Number % 2 == 0) {
+//     console.log("Even number");
+// } else {
+//     console.log("Not even number");
+// }

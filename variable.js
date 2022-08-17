@@ -42,10 +42,15 @@
 
 
 
-// CONST
+// CONST: You cannot change the value of const variable and also not redclare const varaibles using same name
 
-const numOne = 10;
+// const numOne = 10;
 
-const numTwo = 20;
+// const numTwo = 20;
 
-console.log(numOne + numTwo);
+// console.log(numOne + numTwo);
+
+
+// ============ without keyword declare a variables =========== 
+// firstName = "kailash";
+// console.log(firstName);

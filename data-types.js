@@ -60,3 +60,9 @@
 
 
 // ================== BIGINT ================
+// let numBig = BigInt(348567345634568435437653458743543);
+// console.log(numBig);
+
+// ============= Symbol data types ============
+
+// let id = Symbol("id")

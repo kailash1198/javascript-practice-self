@@ -1,10 +1,10 @@
-// ============= OPERATORS IN JAVASCRIPT ================
+// ============= ❤️❤️OPERATORS IN JAVASCRIPT❤️❤️ ================
 
-// =========Airthmatic Operators ============
+// =========👉👉Airthmatic Operators ============
 // let numberOne = 10;
 // let numberTwo = 30;
 
-// let addOperate = numberOne + numberTwo;s
+// let addOperate = numberOne + numberTwo;
 // console.log(addOperate);
 
 // let minusOperate = numberOne - numberTwo;
@@ -23,7 +23,7 @@
 
 // console.log(numberOne++);
 
-// =================== COMPARISON OPERATORS IN JAVASCRIPT ==========
+// =================== 👉👉COMPARISON OPERATORS IN JAVASCRIPT ==========
 
 // let numberOne = 10;
 // let numberTwo = 30;
@@ -44,9 +44,15 @@
 
 // console.log(numberOne !== numberTwo);
 
+// let myNumOne = 20;
+// let myNumTwo = 20;
+
+// let compareNum = myNumOne === myNumTwo;
+// console.log(compareNum);
 
 
-// ================== BITWISE OPERATORS =============
+
+// ==================👉👉 BITWISE OPERATORS =============
 // let numberOne = 5;
 // let numberTwo = 1;
 
@@ -65,7 +71,7 @@
 
 
 
-// =============== LOGICAL OPERATORS ================
+// =============== 👉👉LOGICAL OPERATORS ================
 // let numberOne = 5 < 10;
 // let numberTwo = 1 < 2;
 
@@ -74,11 +80,11 @@
 // console.log(!numberTwo);
 
 
-// ================ ASSIGNMENT OPERATORS =================
+// ================👉👉 ASSIGNMENT OPERATORS =================
 // let numberOne = 5;
 // let numberTwo = 1;
 
-// numberOne += 1;
+// numberOne += 10;
 // console.log(numberOne);
 
 // numberOne -= 2;
@@ -100,11 +106,11 @@
 
 
 
-// ============ TERNARY/CONDITIONAL OPERATORS IN JAVASCRIPT ===========
+// ============👉👉 TERNARY/CONDITIONAL OPERATORS IN JAVASCRIPT ===========
 // let numberOne = 5;
 // let numberTwo = 1;
 
-// let result = (numberOne <= 5) ? "True" : "False";
+// let result = (numberOne <= numberTwo) ? "number 5 less than 1" : "number 5 greater than number 1";
 
 // console.log(result);
 
@@ -113,7 +119,7 @@
 
 
 
-// =============== typeof operator ==============
+// ===============👉👉 typeof operator ==============
 // let numberOne = 10;
 // let numberTwo = 20;
 
@@ -131,7 +137,7 @@
 
 
 
-// =============== special operator ==============
+// =============== 👉👉special operator ==============
 //  delete
 // in
 // new
@@ -139,3 +145,19 @@
 //instanceof
 //void
 // comma
+// bigint
+
+
+
+
+
+
+
+
+
+// ===========❤️❤️ OPERATORS PRECEDENCE❤️❤️ ==============
+// let myNum = 10;
+// let secondNum = 12;
+
+// let OperatNum = myNum + secondNum / myNum * 2;
+// console.log(OperatNum);

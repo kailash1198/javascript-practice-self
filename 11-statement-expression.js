@@ -1,4 +1,4 @@
-// ============ JAVASCRIPT STRICT MODE ==========
+// ============ STATEMENT AND EXPRESSION ==========
 // bigger piece of or line of code is called statements.
 // let a = 10;
 // if (a <= 10) {

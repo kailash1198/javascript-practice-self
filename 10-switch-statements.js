@@ -1,5 +1,7 @@
 // =========== SWITCH STATEMENT IN JAVASCRIPT ===========
 /*
+
+
 let numOne = 20;
 
 switch (numOne) {
@@ -18,4 +20,35 @@ switch (numOne) {
     default:
         console.log("Please enter valid number or valid input");
 }
+
+
+let day = "sunday";
+
+switch (day) {
+    case "monday":
+        console.log("Today is monday");
+        break;
+    case "tuesday":
+        console.log("Today is tuesday");
+        break;
+    case "wednesday":
+        console.log("Todaqy is wednesday");
+        break;
+    case "thursday":
+        console.log("Today is thursday");
+        break;
+    case "friday":
+        console.log("Today is friday");
+        break;
+    case "saturday":
+        console.log("Today is saturday0");
+        break;
+    case "sunday":
+        console.log("Enjoy sunday");
+        break;
+    default:
+        console.log("Wrong");
+}
+
+
 */

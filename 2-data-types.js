@@ -66,3 +66,12 @@
 // ============= Symbol data types ============
 
 // let id = Symbol("id")
+
+
+
+
+// ========= typeof check of anydata types ==========
+
+// var firstName = "kailash";
+
+// console.log(typeof(firstName)); //string data types

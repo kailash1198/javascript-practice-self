@@ -54,3 +54,25 @@
 // ============ without keyword declare a variables =========== 
 // firstName = "kailash";
 // console.log(firstName);
+
+
+
+// var myName = "kailash";
+// console.log(myName);
+
+// var 1 numOne = 10; //Errors
+// console.log(1 numOne);
+
+
+
+
+
+
+
+
+// ==== we cannot change value of const variable ======= 
+
+// const myAge = 24;
+// myAge = 20;
+
+// console.log(myAge);

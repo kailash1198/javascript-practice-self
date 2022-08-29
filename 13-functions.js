@@ -148,6 +148,8 @@ Arrow Function
 
 // ==================== function call others function ==================
 
+/*
+
 var optionChooseYes = 1;
 
 function myFunc() {
@@ -163,4 +165,10 @@ function addNumber(a, b) {
 
 if (optionChooseYes == 1) {
     addNumber(10, 20);
+}
+
+*/
+
+function myFunc() {
+
 }

@@ -2,7 +2,9 @@
 
 // object is king in javascript. if you are understand object that means you understand javascript.
 
+// -------------object declaration ------------------ 
 
+/*
 const studentData = {
     studentName: "Kailash Kumar",
     studentAge: 20,
@@ -12,7 +14,15 @@ const studentData = {
 
 console.log(studentData.studentName);
 
+*/
 
+
+
+
+
+
+
+/*
 const dataEnter = {};
 
 dataEnter.userName = "Aryan singh";
@@ -21,3 +31,21 @@ dataEnter.userID = 83;
 
 console.log(dataEnter);
 console.log(dataEnter.userName);
+*/
+
+
+
+
+
+
+
+
+
+
+// --declare object using ---new object()----  method ------- 
+/*
+const person = new Object();
+person.firstName = "Kailash";
+
+console.log(person.firstName);
+*/

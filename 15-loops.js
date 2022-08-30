@@ -39,3 +39,23 @@
 // for (let numOne = 10; numOne <= 20; numOne++) {
 //     console.log(numOne)
 // }
+
+
+// 4. for of loop 
+
+// const studentName = ["kailash", "aryan", "shyam"];
+// for (const i of studentName) {
+//     console.log(i);
+// }
+
+
+
+
+// 5. for in loops
+// const studentData = {
+//     name: "kailash",
+//     age: 19
+// }
+// for (const key in studentData) {
+//     console.log(`${key} : ${studentData[key]}`);
+// }

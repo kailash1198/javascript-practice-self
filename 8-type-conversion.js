@@ -31,3 +31,37 @@
 
 // let convertBoolean = Boolean(stringValue);
 // console.log(typeof convertBoolean);
+
+// ===================================================================
+//             TYPE CASTING/CONVERSITION
+// ===================================================================
+
+/*
+Change data types one to another types may be manual or automatic is called type convertion or type castings.
+
+
+1. automatic type convertion/Implicit
+2. Manual type convertion /Explicit
+
+
+
+let numberOne = 10;
+console.log(numberOne);
+console.log(typeof numberOne);
+
+numberOne = +10 + +"10";
+console.log(numberOne);
+
+numberOne = String(20);
+console.log(numberOne)
+console.log(typeof numberOne);
+
+numberOne = Boolean(20);
+console.log(numberOne)
+console.log(typeof numberOne);
+
+numberOne = Object(20);
+console.log(numberOne)
+console.log(typeof numberOne);
+
+*/

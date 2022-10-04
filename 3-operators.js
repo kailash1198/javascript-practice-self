@@ -1,6 +1,6 @@
 // ============= ❤️❤️OPERATORS IN JAVASCRIPT❤️❤️ ================
 
-// =========👉👉Airthmatic Operators ============
+// ================ 👉👉Airthmatic Operators ============
 // let numberOne = 10;
 // let numberTwo = 30;
 

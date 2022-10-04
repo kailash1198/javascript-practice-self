@@ -76,3 +76,44 @@
 // myAge = 20;
 
 // console.log(myAge);
+// =========================================================
+// ================= PRACTICE OF JAVASCRIPT: VARIABLES ================
+// =========================================================
+
+/* just like container where can we stores the Data.
+
+
+//  ========types of variables=========== 
+ 1. var 
+ 2. let 
+ 3. const
+
+
+var firstName = "kailash kumar";
+console.log(`my name is ${firstName}`);
+
+
+var myNumber;
+console.log(myNumber);
+
+myNumber = 10;
+console.log(myNumber);
+
+
+let myAge = 19;
+console.log(myAge);
+myAge = 23;
+console.log(myAge);
+let myAge = 30; // you cannot redclare variables inn let variables
+console.log(myAge);
+
+
+
+const myNumOne = 10;
+console.log(myNumOne);
+myNumOne = 11; // error: you cannot change values
+console.log(myNumOne);
+const myNumOne = 16; //you cannot redclare same name
+console.log(myNumOne);
+
+*/

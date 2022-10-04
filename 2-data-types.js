@@ -114,3 +114,38 @@
 // var firstName = "kailash";
 
 // console.log(typeof(firstName)); //string data types
+
+
+
+
+
+
+// ======================================================
+//             DATA TYPES 
+// =======================================================
+/*
+Primitive data types
+1. string
+2. number
+3. BOOLEAN
+4. null
+5. undefined
+
+Non primitive data types
+1. array
+2. Object
+
+
+var x = "kailash Kumar";
+var x = "10";
+var x = 10;
+var x = true;
+var x = ["kailash", "kumar", 12];
+var x = {
+    firstName: "kailash",
+    lastName: "kumar"
+};
+console.log(x);
+console.log(typeof x);
+
+*/

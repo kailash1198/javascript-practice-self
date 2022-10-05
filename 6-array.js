@@ -111,4 +111,16 @@
 
 
 
-// ======================== ARRAY DESTRUCTION =========================
+// ======================== ARRAY DESTRUCTION ========================
+
+
+
+// ==================== ARRAYS SELF PRACTICE ===================
+
+// var studentName = ["kailash", "aryan", "singh", "laxmi", "shyam", "laxman", "anjali singh"];
+
+// console.log(studentName);
+// for (var i = 0; i <= studentName.length - 1; i++) {
+//     console.log(studentName[i]);
+// }
+// // console.log(studentName[1]);

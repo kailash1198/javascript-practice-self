@@ -169,6 +169,4 @@ if (optionChooseYes == 1) {
 
 */
 
-function myFunc() {
-
-}
+// ==================== function practice ====================
